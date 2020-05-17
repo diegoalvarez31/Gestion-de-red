@@ -71,7 +71,7 @@ volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes
 
 -  `git status` : Permite ver los archivos que seran agregados al repositorio
 
- ![alt text]
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20SATATUS.PNG)
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
@@ -88,7 +88,14 @@ volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
 
-**Comandos mas utilizados en github**
+6- ***Verificación de carpetas***
+
+  Una vez se halla empleado el comando `git push `, es posible verificar que las carpetas creadas se hayan subido exitosamente al repositorio "Gestion", como se muestra a continuación 
+
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20CARPETAS.PNG)
+
+
+7- ***Comandos mas utilizados en github***
 -	**git help** Muestra una lista con los comandos más utilizados en GIT.
 
 -	**git init** Podemos ejecutar ese comando para crear localmente un repositorio con GIT y así utilizar todo el funcionamiento que GIT ofrece
@@ -99,5 +106,3 @@ volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes
 -	**git merge** Nombre de branch Hace un merge entre dos branches, en este caso la dirección del merge sería entre el branch que indiquemos en el comando, y el branch donde estemos ubicados.
 -	**git push origin** Nombre de branch  Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
 -	**git pull origin** Nombre de branch  Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
-
-
