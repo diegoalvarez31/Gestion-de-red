@@ -1,7 +1,5 @@
 # Gestion-de-red
-> creacion de repositorio en github
-* creacion de carpetas
-+ clonacion de la carpeta del repositorio en github
+
 ## **Operaciones básicas de adminitración de repositorios**
 
 # Para que sirve el repositorio en github
@@ -19,30 +17,28 @@
 - **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo.
   
 2- ***Procedimiento***
-  + Una vez creado el repositorio, copiamos la dirección de nuestro repositorio, esta se encuentra en la parte superior, en *"clone or download"*. Copiamos la dirección https://github.com/Catalinahdez17/Gestion.git: e ingresamos a git y utilizamos el comando `git clone`seguido del enlace.
+  + Una vez creado el repositorio, copiamos la dirección de nuestro repositorio, esta se encuentra en la parte superior, en *"clone or download"*. Copiamos la dirección https://github.com/diegoalvarez31/Gestion-de-red.git: e ingresamos a git y utilizamos el comando `git clone`seguido del enlace.
 
 3- ***Configuración de usuario y correo***
-- `git config --global user.name "Catalinahdez17"`
-
-- `git config --global user.email catalinahdez1246@gmail.com`  
+- `git config --global user.name "diegoalvarez31"`
+- `git config --global user.email diegoalvares2009@hotmail.com`  
 
 4- ***Creación de carpetas***
-+ `mkdir Gestión`
-+  `cd Gestion/`
++ `mkdir Gestion de red`
++  `cd Gestion de red/`
 
 ***Archivo de texto***
 +  `vi index.txt` Allí editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
 
-* En la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
+* En la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada RED
 
-**creacion de carpeta CH**
-- `mkdir CH`
--  `cd CH/`
--  `vi CH.txt`
+**creacion de carpeta RED**
+- `mkdir RED`
+-  `cd RED/`
  
 Salimos de esta carpeta con  el comando `cd ..`
 
-volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente comandos 
+volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes comandos 
 
 - `git add -A`
 - `git status`
@@ -53,7 +49,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 5- ***Resumen comandos empleados***
    
- - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/Users/Angelica/Documents/GITHUB/
+ - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/GITHUB/
  
  ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20clone.PNG)
    
