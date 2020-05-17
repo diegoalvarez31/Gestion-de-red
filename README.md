@@ -51,38 +51,39 @@ volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes
    
  - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/GITHUB/
  
- ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20clone%20diego.jpg)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20CLONE.PNG)
    
  - `git config --global user.name` y `git config --global user.email` : Estos son parametros necesarios globalmente 
  
- ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20global%20diego.png)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20GLOBAL.PNG)
     
  - `mkdir` : Se crea una carpeta 
  
  - `cd Ruta del proyecto/` : Se ingresa a la carpeta o ruta establecida
  
  - `ls`: Lista todos los archivos que se encuentran dentro de la ruta
- ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/ls%20diego.png)
+ 
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20LS.PNG)
  
  - `git add -A` : Agregar archivos que se van a agregar a nuestro repositorio 
  
- ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20add%20diego.png)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20ADD.PNG)
 
 -  `git status` : Permite ver los archivos que seran agregados al repositorio
 
- ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20status%20diego.png)
+ ![alt text]
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
-![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20commit%20diego.png)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20COMMIT.PNG)
 
 -  `git log` : Ver los commits que se han hecho recientemente 
 
-![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20log%20diego.png)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20LOG.PNG)
 
 -  `git push ` : Subir cambios al repostorio
 
-![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20push%20diego.png)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/SI%20GIT%20PUSH.PNG)
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
