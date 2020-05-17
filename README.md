@@ -51,42 +51,38 @@ volvemos a quedar en la carpeta Gestion de red y allí ejecutamos los siguientes
    
  - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/GITHUB/
  
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20clone.PNG)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20clone%20diego.jpg)
    
  - `git config --global user.name` y `git config --global user.email` : Estos son parametros necesarios globalmente 
  
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/GIT%20GLOBAL.PNG)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20global%20diego.png)
     
  - `mkdir` : Se crea una carpeta 
  
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/Mkdir.PNG)
- 
  - `cd Ruta del proyecto/` : Se ingresa a la carpeta o ruta establecida
  
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/CD.PNG)
- 
  - `ls`: Lista todos los archivos que se encuentran dentro de la ruta
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/ls.PNG)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/ls%20diego.png)
  
  - `git add -A` : Agregar archivos que se van a agregar a nuestro repositorio 
  
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/Git%20add.PNG)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20add%20diego.png)
 
 -  `git status` : Permite ver los archivos que seran agregados al repositorio
 
- ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20status.PNG)
+ ![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20status%20diego.png)
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
-![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20commit%201.PNG)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20commit%20diego.png)
 
 -  `git log` : Ver los commits que se han hecho recientemente 
 
-![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20log.PNG)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20log%20diego.png)
 
 -  `git push ` : Subir cambios al repostorio
 
-![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20push.PNG)
+![alt text](https://github.com/diegoalvarez31/Gestion-de-red/blob/master/git%20push%20diego.png)
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
